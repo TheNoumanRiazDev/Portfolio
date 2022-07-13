@@ -1,0 +1,121 @@
+body {
+    font-family: "Montserrat";
+    text-align: center;
+}
+h1,h2,h3,h4,h5 {
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+.colored-section {
+    background-color: #4c4052;
+}
+
+.title-img {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    padding-top: 10px;
+    
+}
+.big-heading {
+    font-family: "Montserrat-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+    color: aliceblue;
+    padding-top: 30px;
+}
+.navbar {
+    padding-left: 4.5rem;
+    padding-right: 0;
+    padding-top: 1rem;
+    padding-bottom: 0;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+.nav-link {
+    font-size: 1.2rem;
+    
+}
+.intro {
+    font-family: "Montserrat";
+    text-align: center;
+    text-decoration: dotted;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #858585;
+    color: white;
+
+}
+.contact {
+    background-color: #D6D5A8;
+    margin: 0;
+}
+.skills {
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+.intro-top {
+    padding-bottom: 2%;
+    color: darkblue;
+}
+.btn-group {
+    margin-top: 25px;
+}
+.btn-group button {
+    background-color: wheat; /* Green background */
+    border: 1px solid black; /* Green border */
+    color: white; /* White text */
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    
+  }
+  .btn-group button:hover {
+    background-color: white;
+  }
+  .contact {
+    background-color: wheat;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  .myprojects {
+    background-color: #858585;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+.footer {
+    background-color: wheat;
+    padding: 1%;
+}
+.contact-button {
+    margin: 3%;
+}
+.skillsrow {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.project-heading {
+    padding: 15px;
+    
+}
+.uppertitle {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.btn-primary:hover{
+    color: lightblue;
+}
+.btn-info:hover {
+    color: greenyellow;
+}
+.btn-light:hover {
+    color: red;
+}
